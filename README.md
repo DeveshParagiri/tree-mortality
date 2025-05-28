@@ -1,4 +1,4 @@
-# 🌲 TREE-MORTALITY-V3
+# 🌲 Detecting Tree Mortality from Aerial Imagery
 
 This repository contains the complete pipeline for classifying individual pixels in NAIP aerial imagery as **LIVE**, **DEAD**, or **BARE** vegetation using spectral features (RGB, NIR, NDVI).
 
@@ -9,7 +9,7 @@ The current version supports:
 - Full-raster predictions for 2014–2022
 - Temporal trend analysis of class distributions
 
-Built and maintained by [Dev Paragiri](https://devparagiri.com).
+Built and maintained by [Dev Paragiri](https://deveshparagiri.com).
 
 ---
 
@@ -111,3 +111,4 @@ Run stats.ipynb and increment.ipynb to:
 ## 📬 Author
 
 Dev Paragiri
+[LinkedIn](https://www.linkedin.com/in/deveshparagiri) | [X](https://x.com/deveshparagiri)
