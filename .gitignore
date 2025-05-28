@@ -1,0 +1,14 @@
+env/
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+naip_data/
+preprocessed_output_*/temp_merged_*.tif
+labeled_samples/
+labeled.csv.numbers
